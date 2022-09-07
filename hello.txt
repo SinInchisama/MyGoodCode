@@ -1,3 +1,4 @@
 name : Kim seon bin
 School number : 20-76026244
+성적 C+
 hello
